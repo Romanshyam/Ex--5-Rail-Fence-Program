@@ -68,7 +68,7 @@ return 0; // Properly return from main
 
 ```
 # OUTPUT
-![Screenshot 2025-03-19 143640](https://github.com/user-attachments/assets/a50dc3a0-6ad5-400f-8af9-fb0e340202e5)
+![Screenshot 2025-04-28 082850](https://github.com/user-attachments/assets/4fb04f79-aa57-47b0-8b2f-9e8626ef1d23)
 
 
 # RESULT
